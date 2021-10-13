@@ -1,0 +1,2 @@
+# AngularParentChildcomponents
+Created with CodeSandbox
